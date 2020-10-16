@@ -1,0 +1,12 @@
+.postdiv{
+    max-width: 500px;
+    margin: 50px auto;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid grey;
+}
+
+.btn-sm{
+    width: 20%;
+    background-color:skyblue;
+}

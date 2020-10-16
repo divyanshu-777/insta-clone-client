@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+#navbarNav{
+  
+    justify-content: flex-end;
+   
+}
+.nav-link{
+    color: black;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    margin-left: 30px;
+    font-family: 'Grand Hotel', cursive;
+    color: black !important;
+}
+.btn2{
+   margin-top: 10px;
+   margin-left: 30px;
+}

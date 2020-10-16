@@ -1,0 +1,18 @@
+.outerdiv{
+    margin: auto;
+    max-width: 500px;
+    border: 2px solid grey;
+    padding: 10px;
+    margin-top: 60px;
+}
+
+.innerdiv{
+
+    padding: 20px;
+   
+}
+
+.navbar-brand1{
+    font-family: 'Grand Hotel', cursive;
+    color: black !important;
+}
